@@ -19,7 +19,6 @@ If the customer question is about the operation of a device, we will use the web
 ### Functional Requirements
 
 A Chatbot that will be able to answer queries asked by customers.
-Redirect the operational queries to Owner's manual. 
 Redirect the query to the particular section of the owner's manual.
 
 ### Technical Requirements
@@ -57,5 +56,3 @@ https://node-red-dwzus.eu-gb.mybluemix.net/ui/#!/0?socketid=kBL6zqzHnqjY5mX5AAAE
 ## Project Demonstration Video:
 https://drive.google.com/file/d/1vB8ZH2Nr9Z29b6QSGCkjWgZGnycLy59h/view?usp=sharing
 
-## Feedback Video:
-https://drive.google.com/file/d/1fhCuXgqB1oXhmX4Dv_YatIBWe3qAJ1na/view?usp=sharing
